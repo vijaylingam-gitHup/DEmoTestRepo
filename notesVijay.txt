@@ -1,0 +1,30 @@
+Hi Vijay... Wish You many more happy returns of the day 
+
+By, 
+Your Aasai pondatty !
+
+
+U symbol untract - apdina innum server la publish pannala nu artham 
+
+ippo namma local la irukkom idha server la push pannanu so 3 comments 
+
+
+git add () - onnu mattum n add pandradhuku
+eg - > git add ./index.html 
+(idhu namma file name ) - onnu mattum na adhoda nanme illana .(dot vacha podhum)
+ellame add pandradhuku . vacha podhum 
+eg -> git add .     
+avlodha 
+
+mmmpuri
+ hmmm  ethavacha pothum
+git Commit 
+
+git push 
+
+
+inga 3 files irukku... pooi server la paapom okay va 
+
+test pandradhukaga onnu mattum add panni pakalam 
+
+
